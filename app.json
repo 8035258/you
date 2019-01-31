@@ -7,7 +7,7 @@
   "env":{
     "APIKEY":{
       "description": "Youtube API V3 KEY",
-      "value": "AIzaSyAP7-0Dqfmc7anLtAl95TiZd0Eg4YkpNjA"
+      "value": ""
     },
     "GJ_CODE":{
       "description": "地区代码，HK,SG,US  ISO_3166-1",
