@@ -2,12 +2,12 @@
   "name": "You2PHP",
   "description": "A free and open-source youtube video proxy script[Written in PHP]",
   "website": "https://8035258.github.io/",
-  "repository": "https://github.com/8035258/you2php",
+  "repository": "https://github.com/8035258/you2php-heroku",
   "success_url": "/install.php",
   "env":{
     "APIKEY":{
       "description": "Youtube API V3 KEY",
-      "value": ""
+      "value": "AIzaSyAP7-0Dqfmc7anLtAl95TiZd0Eg4YkpNjA"
     },
     "GJ_CODE":{
       "description": "地区代码，HK,SG,US  ISO_3166-1",
@@ -27,7 +27,7 @@
     },
     "EMAIL":{
       "description": "邮箱",
-      "value": ""
+      "value": "zx8812551@gmail.com"
     }
   }
 }
